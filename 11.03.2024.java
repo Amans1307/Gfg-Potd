@@ -1,3 +1,7 @@
+//Count pairs Sum in matrices 
+//Daily potd problem
+
+
 import java.util.*;
 class Solution {
     public static int countPairs(int mat1[][], int mat2[][], int n, int x) {
